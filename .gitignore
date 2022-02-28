@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+.idea/*
+.sass-cache
+*.zip
+dist/**
+lib/
+*.log
+undefined
+*.log
+*.map
+.cache
+.dll-link-plugin
+build
+.cache-loader
+stats.json
+tools/json-langs

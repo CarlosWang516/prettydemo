@@ -1,0 +1,17 @@
+.pretty-area {
+    background: black;
+    height: 22px;
+    display: flex;
+}
+
+.pretty-sidebar {
+    width: 50px;
+    background: gray;
+    color: white;
+    text-align: center;
+}
+
+.pretty-code {
+    margin-left: 10px;
+    color: white;
+}
